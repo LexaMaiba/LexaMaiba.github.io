@@ -1,0 +1,48 @@
+
+body{
+	text-align: center;
+	font-family: arial, sans-serif;
+}
+
+h4{
+	color: #999;
+}
+
+.header{
+	padding-top: 50px;
+	margin-bottom: -40px;
+}
+
+.text{
+	padding-right: 100px;
+
+}
+
+.title{
+	position: relative;
+	color: #fff;
+	top: -50px;
+	text-transform: uppercase;
+	font-weight: 700;
+	right: 90px;
+}
+
+span{
+	font-size: 11px;
+	color: #999;
+	margin-left: 15px;
+
+}
+
+.price{
+	letter-spacing: 0.1em;
+	background-color: #FFFACD;
+	display: inline;
+	padding: 4px 4px;
+}
+
+.front{
+	position: relative;
+	left: -332px;
+	top: -203px;
+}
